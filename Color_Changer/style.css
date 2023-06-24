@@ -1,0 +1,23 @@
+#button{
+    background-color: rgb(244, 234, 234);
+    padding: 15px;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 0.5rem 0.5rem 0.5rem rgba(0, 0, 0, 0.8);
+
+}
+
+.colorChanger{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+#color{
+    margin-top: 1rem;
+    font-size: 25px;
+}
